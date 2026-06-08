@@ -1,6 +1,6 @@
 import socket
 
-CLIENT_FILES="client_files/"
+CLIENT_FILES="../client_files/"
 SERVER = ("127.0.0.1", 12346)
 my_sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
