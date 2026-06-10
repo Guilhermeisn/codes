@@ -42,3 +42,6 @@ else:
     print (" python htppclient3.py httpbin.org /image/png porco.png")
     print (" python htppclient3.py viacep.com.br /ws/59062570/json/ meucep.json")
     print (" python htppclient3.py httpbin.org /image/jpeg lobo.jpg")
+
+# [?] Terminar o código com - 0/r/n/r/n
+# [?] Transfer-encoding: chunked/r/n
